@@ -1,5 +1,15 @@
 # High-Density Hall Effect Switch
 
+The objective of this project is to design the deepest-sounding (“thockiest”) hall effect switch possible. This design is primarily exploratory and may never enter production. It is possible that not even a single switch will be manufactured to the exact specifications outlined here.
+
+From cost estimates, each switch would cost approximately $1.50–$3.00 to produce at a scale of 500–1,000 units. This estimate excludes the mold, which could cost upwards of $10,000.
+
+The design will aim to create a switch that:
+1. Possesses high density, shifting the resonant frequency downwards.
+2. Has high intrinsic damping.
+3. Is electrically insulating and non-magnetic.
+4. Is manufacturable at a normal scale.
+
 ## Stem
 
 **Material**
