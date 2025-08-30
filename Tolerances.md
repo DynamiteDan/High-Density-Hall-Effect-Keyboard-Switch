@@ -2,7 +2,10 @@ Just a basic file where I will post the necessary tolerances
 
 # Global notes
 
-* **Datums:** A = lower-housing Hall datum plane; B = housing X guide wall; C = housing Y guide wall. Where relevant, stem datums reference mating surfaces to B/C.
+* **Datums:**
+*     A = lower-housing Hall datum plane;
+*     B = housing X guide wall; C = housing Y guide wall.
+*     Where relevant, stem datums reference mating surfaces to B/C.
 * **Process capability target:** Cpk ≥ 1.33 on criticals (≈±3σ inside spec).
 
 # Stem (POM)
