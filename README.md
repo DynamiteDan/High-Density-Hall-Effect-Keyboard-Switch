@@ -1,8 +1,11 @@
 # High-Density Hall Effect Switch
 
-The objective of this project is to design the deepest-sounding (“thockiest”) hall effect switch possible. This design is primarily exploratory and may never enter production. It is highly possible that not even a single switch will be manufactured to the exact specifications outlined here, but bench prototypes might be made as a proof of concept.
+The objective of this project is to design the deepest-sounding (“thockiest”) hall effect switch possible. This design is primarily exploratory and may never enter production. It is highly likely that not even a single switch will be manufactured to the exact specifications outlined here, but bench prototypes might be made as a proof of concept.
 
-From cost estimates, each switch would cost approximately $1.50 to produce at a scale of 10,000 units. This estimate excludes the mold, which could cost upwards of $20,000.
+From cost estimates, each switch would cost approximately $1.50 to produce at a scale of 10,000 units. This estimate excludes the mold, which could cost upwards of $20,000. The cost is mainly due to the liner, which requires an overmold, and the materials involved.
+I think that if this were to actually be thought of as a real concept, and put into production, the liner would probably only be put in spots that have contact with the stem. Although this would reduce the effectiveness of the damping, it would still probably have the deepest sound profile of any known switch.
+
+A bench prototype would probably be made by 3d printing the top and bottom housing of a switch with grooves for places to place TPU strips, then comparing the acoustics, feel, and consistency of the switch. This step will probably be the tipping point on whether a manufactured version is viable.
 
 The design will aim to create a switch that:
 1. Possesses high density, shifting the resonant frequency downwards.
