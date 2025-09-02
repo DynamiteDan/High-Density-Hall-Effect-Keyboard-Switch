@@ -1,7 +1,6 @@
 # High-Density Hall Effect Switch
 
-
-# THIS PROJECT IS CURRENTLY IN THE CONCEPT STAGE, ONLY WHEN A CAD MODEL IS FINISHED WILL ANY PROTYPING BEGIN. I AM STILL CURRENTLY WORKING OUT THE EXACT SPECIFICATIONS AND TOLERANCES TO REDUCE PRICE.
+# I've worked out the CAD Models for prototypes, but MFJ printing is expensive. ill be posting the CAD files on here shortly if you want to print it yourself
 
 The objective of this project is to design the deepest-sounding (“thockiest”) hall effect switch possible. This design is primarily exploratory and may never enter production. It is highly likely that not even a single switch will be manufactured to the exact specifications outlined here, but bench prototypes might be made as a proof of concept.
 
